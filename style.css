@@ -1,0 +1,16 @@
+.row {
+  height: 10px
+}
+.ceil {
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+}
+
+.ceil_0 {
+  background-color: red;
+}
+
+.ceil_1 {
+  background-color: green;
+}
